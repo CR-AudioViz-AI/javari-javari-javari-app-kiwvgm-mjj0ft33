@@ -1,0 +1,26 @@
+{
+  "name": "javari-javari-app-kiwvgm",
+  "version": "1.0.0",
+  "description": "Build me a personal finance dashboard with: 1) A pie chart showing expense categories (food, rent, utilities, entertainment), 2) A line chart showing monthly spending trends, 3) A form to add new expe",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5"
+  }
+}
